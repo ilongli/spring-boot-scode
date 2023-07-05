@@ -1,0 +1,11 @@
+#com.ilongli.springboot.scode.a41.A41$MyImportSelector=\
+#  com.ilongli.springboot.scode.a41.A41.AutoConfiguration1,\
+#  com.ilongli.springboot.scode.a41.A41.AutoConfiguration2
+
+#com.ilongli.springboot.scode.a41.A41_2$MyImportSelector=\
+#  com.ilongli.springboot.scode.a41.A41_2.AutoConfiguration1,\
+#  com.ilongli.springboot.scode.a41.A41_2.AutoConfiguration2
+
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#  com.ilongli.springboot.scode.a41.A41_2.AutoConfiguration1,\
+#  com.ilongli.springboot.scode.a41.A41_2.AutoConfiguration2
